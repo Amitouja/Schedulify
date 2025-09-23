@@ -1,0 +1,5 @@
+{
+  "name": "Schedulo: AI Timetable Generator",
+  "description": "An AI-powered timetable generation system aligned with NEP 2020 for multidisciplinary education. This application helps students select courses based on available time slots, avoiding clashes and managing their schedule effectively.",
+  "requestFramePermissions": []
+}
